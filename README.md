@@ -30,7 +30,7 @@ cd COMP3005_A3
 
 Navigate to the database directory and create a database.
 Then run the scripts in the a3.sql file to set up your PostgreSQL database.
-Replace username and database_name with your PostgreSQL username and the name of your database, respectively.
+Replace DB_USER and DB_NAME with your PostgreSQL username and the name of your database, respectively.
 
 ```python
 DB_NAME = "A3"
