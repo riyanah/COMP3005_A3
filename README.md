@@ -1,6 +1,6 @@
 # COMP3005_A3
 
-A brief description of what this project does and who it's for.
+COMP3005 A3 Student Database
 
 ## Video Demonstration Link
 
